@@ -3,7 +3,7 @@
  * GPIO.c
  *
  *  Created on: Feb 27, 2016
- *      Author: mohamed
+ *      Author: mohamed and barakat
  */
 
 #include"hw_types.h"
